@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Durvesh%20Baharwal&fontSize=60&fontColor=00ff88&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%26%20Researcher&descSize=20&descAlignY=58&descColor=00bfff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Durvesh+Baharwal&fontSize=60&fontColor=00ff88&animation=twinkling&fontAlignY=35&desc=Full+Stack+AI+Engineer+%26+Researcher&descSize=20&descAlignY=58&descColor=00bfff" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Agentic+AI+Workflows+%F0%9F%A4%96;Computer+Vision+Systems+%40+Scale+%F0%9F%91%81%EF%B8%8F;LLMs+%C2%B7+RAG+%C2%B7+Deep+Learning+%F0%9F%A7%A0;ISRO+Researcher+%C2%B7+Published+Author+%F0%9F%9A%80;4%2B+Years+in+AI%2FML+%26+Automation+%E2%9A%A1" alt="Typing SVG" />
